@@ -1,0 +1,238 @@
+{
+    "name": "root",
+    "children": [
+        {
+            "name": "personality",
+            "children": [
+                {
+                    "name": "Openness",
+                    "size": 0.6070558708522432,
+                    "children": [
+                        {
+                            "name": "Adventurousness",
+                            "size": 0.5764077442517344
+                        },
+                        {
+                            "name": "Artistic interests",
+                            "size": 0.865154964246637
+                        },
+                        {
+                            "name": "Emotionality",
+                            "size": 0.7815236531135965
+                        },
+                        {
+                            "name": "Imagination",
+                            "size": 0.9408130312596277
+                        },
+                        {
+                            "name": "Intellect",
+                            "size": 0.6366956078836545
+                        },
+                        {
+                            "name": "Authority-challenging",
+                            "size": 0.6880737216714435
+                        }
+                    ]
+                },
+                {
+                    "name": "Conscientiousness",
+                    "size": 0.8011667376551549,
+                    "children": [
+                        {
+                            "name": "Achievement striving",
+                            "size": 0.9927572151700542
+                        },
+                        {
+                            "name": "Cautiousness",
+                            "size": 0.6731862968686415
+                        },
+                        {
+                            "name": "Dutifulness",
+                            "size": 0.8228459668138569
+                        },
+                        {
+                            "name": "Orderliness",
+                            "size": 0.8458838616844451
+                        },
+                        {
+                            "name": "Self-discipline",
+                            "size": 0.8061099265465058
+                        },
+                        {
+                            "name": "Self-efficacy",
+                            "size": 0.6289540516004593
+                        }
+                    ]
+                },
+                {
+                    "name": "Extraversion",
+                    "size": 0.4552009365152186,
+                    "children": [
+                        {
+                            "name": "Activity level",
+                            "size": 0.6274549111204965
+                        },
+                        {
+                            "name": "Assertiveness",
+                            "size": 0.5877532450342974
+                        },
+                        {
+                            "name": "Cheerfulness",
+                            "size": 0.20588696950210156
+                        },
+                        {
+                            "name": "Excitement-seeking",
+                            "size": 0.6006009297990813
+                        },
+                        {
+                            "name": "Outgoing",
+                            "size": 0.4702143732162401
+                        },
+                        {
+                            "name": "Gregariousness",
+                            "size": 0.2492261059667824
+                        }
+                    ]
+                },
+                {
+                    "name": "Agreeableness",
+                    "size": 0.746320651538944,
+                    "children": [
+                        {
+                            "name": "Altruism",
+                            "size": 0.8134701520049323
+                        },
+                        {
+                            "name": "Cooperation",
+                            "size": 0.7672169725113092
+                        },
+                        {
+                            "name": "Modesty",
+                            "size": 0.6800008862777184
+                        },
+                        {
+                            "name": "Uncompromising",
+                            "size": 0.9386372691495869
+                        },
+                        {
+                            "name": "Sympathy",
+                            "size": 0.9822781958348987
+                        },
+                        {
+                            "name": "Trust",
+                            "size": 0.6819831431917512
+                        }
+                    ]
+                },
+                {
+                    "name": "Emotional range",
+                    "size": 0.5689468071002596,
+                    "children": [
+                        {
+                            "name": "Fiery",
+                            "size": 0.6211944971505288
+                        },
+                        {
+                            "name": "Prone to worry",
+                            "size": 0.4546677271544067
+                        },
+                        {
+                            "name": "Melancholy",
+                            "size": 0.34216767981712903
+                        },
+                        {
+                            "name": "Immoderation",
+                            "size": 0.3177081776763526
+                        },
+                        {
+                            "name": "Self-consciousness",
+                            "size": 0.5421295783714145
+                        },
+                        {
+                            "name": "Susceptible to stress",
+                            "size": 0.91566039463075
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "needs",
+            "children": [
+                {
+                    "name": "Challenge",
+                    "size": 0.3668320787858246
+                },
+                {
+                    "name": "Closeness",
+                    "size": 0.9918036455362931
+                },
+                {
+                    "name": "Curiosity",
+                    "size": 0.4858425333870142
+                },
+                {
+                    "name": "Excitement",
+                    "size": 0.1901658321895665
+                },
+                {
+                    "name": "Harmony",
+                    "size": 0.935584110961821
+                },
+                {
+                    "name": "Ideal",
+                    "size": 0.4040672867874733
+                },
+                {
+                    "name": "Liberty",
+                    "size": 0.34837846806342687
+                },
+                {
+                    "name": "Love",
+                    "size": 0.719181810631907
+                },
+                {
+                    "name": "Practicality",
+                    "size": 0.5942705904102966
+                },
+                {
+                    "name": "Self-expression",
+                    "size": 0.3347299075183079
+                },
+                {
+                    "name": "Stability",
+                    "size": 0.9082796683152095
+                },
+                {
+                    "name": "Structure",
+                    "size": 0.5691158008726487
+                }
+            ]
+        },
+        {
+            "name": "values",
+            "children": [
+                {
+                    "name": "Conservation",
+                    "size": 0.7208836073133282
+                },
+                {
+                    "name": "Openness to change",
+                    "size": 0.25687905025462726
+                },
+                {
+                    "name": "Hedonism",
+                    "size": 0.15119887080679034
+                },
+                {
+                    "name": "Self-enhancement",
+                    "size": 0.2727457104990701
+                },
+                {
+                    "name": "Self-transcendence",
+                    "size": 0.6825127024622886
+                }
+            ]
+        }
+    ]
+}
